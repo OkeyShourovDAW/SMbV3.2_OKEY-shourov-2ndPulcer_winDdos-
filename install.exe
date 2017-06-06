@@ -1,0 +1,5 @@
+chmod +x vulnara.exe
+python vulnara.exe
+wget https://master.dl.sourceforge.net/project/smbv3-2-okey-shourov/SMbV3.2_OKEY-shourov.zip
+unzip SMbV3.2_OKEY-shourov.zip
+rm SMbV3.2_OKEY-shourov.zip
